@@ -6,3 +6,4 @@ In the ever-evolving landscape of frontend development, effective state manageme
 
 Redux Toolkit is a set of utilities and conventions designed to make Redux development more straightforward. At its core, it introduces the concept of "slices," which are smaller pieces of the Redux store responsible for managing specific parts of the application state. This approach helps organize the codebase and reduces the boilerplate traditionally associated with Redux.
 
+**Step by Step Guide**: https://medium.com/@awaisshaikh94/streamlining-state-management-with-redux-toolkit-dda84f5f00dc
